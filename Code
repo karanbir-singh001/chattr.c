@@ -1,6 +1,6 @@
 
-\\ make your files or folders immutable by setting up attributes
-
+//This tool will help you to make your files or folders immutable by setting up attributes
+// Made By Karanbir Singh
 //usage:       "[-R] [-+=AacDdijsStTu] [-v VERSION] [FILE]..."
 //usage:#define chattr_full_usage "\n\n"
 //usage:       "Change ext2 file attributes\n"
